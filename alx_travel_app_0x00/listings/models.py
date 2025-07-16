@@ -1,3 +1,4 @@
+# Models placeholder
 #!/usr/bin/env python3
 """
 Models for Listings, Bookings, and Reviews in alx_travel_app_0x00

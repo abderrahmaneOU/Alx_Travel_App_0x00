@@ -1,3 +1,4 @@
+# Serializers placeholder
 #!/usr/bin/env python3
 """
 Serializers for Listing and Booking models
